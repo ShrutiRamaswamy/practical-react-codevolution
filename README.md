@@ -1,2 +1,2 @@
 # practical-react-codevolution
-My practice of Practical React with Codevolution videos.
+My practice of Practical React with Codevolution.
