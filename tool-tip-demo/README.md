@@ -1,4 +1,4 @@
-yarn add '@tippy.js/react'
+# yarn add '@tippy.js/react'
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
